@@ -1,0 +1,11 @@
+# Rust / Tauri build output
+/src-tauri/target/
+
+# Local app bundles and scratch files
+/outputs/
+/work/
+
+# macOS and editor noise
+.DS_Store
+*.swp
+*.log
